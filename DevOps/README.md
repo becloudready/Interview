@@ -24,3 +24,12 @@ Install Docker and download the image docker pull tiangolo/uwsgi-nginx-flask. Ru
 ### Linux
 
 * Setup an SFTP server on your local/cloud Linux environment with Jailroot
+
+
+### CI/CD
+
+* Create a Github Actions Pipeline for the Python Project
+
+### Submmittion
+
+Please raise a merge request.
