@@ -26,6 +26,7 @@ jobs:
         with:
           push: true
           context: ./DevOps
+          file: ./DevOps/Dockerfile
           tags: ${{ secrets.DOCKERHUB_USERNAME }}/guestbookapp:latest
       -
         name: Image digest
