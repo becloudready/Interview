@@ -58,7 +58,7 @@ You are tasked with creating a small application that simulates a Bookstore API.
 ---
 
 **Deadline:**  
-You have **7 days** to complete this assignment.
+You have **3 days** to complete this assignment.
 
 Good luck! We look forward to reviewing your submission.
 
