@@ -18,8 +18,8 @@ Step 1: Install dependencies,
 
 pip install "fastapi[standard]"
 
-step 2: In the current directory, run in terminal
+Step 2: In the current directory, run in terminal
 
 fastapi dev main.py
 
-step 3: in the web browser, go to http://127.0.0.1:8000/docs
+Step 3: in the web browser, go to http://127.0.0.1:8000/docs
